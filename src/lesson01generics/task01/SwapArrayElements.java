@@ -1,5 +1,6 @@
 package lesson01generics.task01;
 
+import java.io.InputStream;
 import java.util.stream.Stream;
 
 public class SwapArrayElements {
